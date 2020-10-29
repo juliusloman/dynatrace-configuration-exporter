@@ -1,0 +1,5 @@
+APITOKEN=""
+TENANT="https://xxx.live.dynatrace.com"
+CURLARGS="-s"
+ENVIRONMENT="dummy"
+export TENANT APITOKEN CURLARGS ENVIRONMENT
